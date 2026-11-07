@@ -1,0 +1,6 @@
+{
+  "name": "Theo Lucca - Aventura no Mundo Real",
+  "description": "Projeto completo de jogo Unity 3D estilo Free Fire com Theo Lucca, scripts C#, cenas, HUD mobile e simulador 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
